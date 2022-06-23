@@ -56,3 +56,15 @@
 	display:none;
 }
 
+
+.contract-template-default  .site-container .site-header{
+	display:none;
+}
+
+.contract-template-default  .site-container .site-inner{
+	margin-top:10px!important;
+}
+
+.contract-template-default  .site-container .site-footer{
+	display:none;
+}
